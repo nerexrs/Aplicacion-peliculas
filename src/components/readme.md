@@ -1,0 +1,1 @@
+acá pongo los componentes de forma individual

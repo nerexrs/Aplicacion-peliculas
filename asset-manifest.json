@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/github.io/Aplicacion-peliculas/static/css/main.b15843ee.css",
-    "main.js": "/github.io/Aplicacion-peliculas/static/js/main.256f6a52.js",
-    "index.html": "/github.io/Aplicacion-peliculas/index.html",
-    "main.b15843ee.css.map": "/github.io/Aplicacion-peliculas/static/css/main.b15843ee.css.map",
-    "main.256f6a52.js.map": "/github.io/Aplicacion-peliculas/static/js/main.256f6a52.js.map"
+    "main.css": "/Aplicacion-peliculas/static/css/main.b15843ee.css",
+    "main.js": "/Aplicacion-peliculas/static/js/main.256f6a52.js",
+    "index.html": "/Aplicacion-peliculas/index.html",
+    "main.b15843ee.css.map": "/Aplicacion-peliculas/static/css/main.b15843ee.css.map",
+    "main.256f6a52.js.map": "/Aplicacion-peliculas/static/js/main.256f6a52.js.map"
   },
   "entrypoints": [
     "static/css/main.b15843ee.css",

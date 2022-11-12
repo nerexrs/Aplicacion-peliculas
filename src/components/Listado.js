@@ -48,7 +48,7 @@ export const Listado = ({listadoState, setListadoState}) => {
 
   return (
     <>
-        {listadoState != null ?
+        {
                 listadoState.map(peli => {
                         return (
                             <article key={peli.id} className="peli-item">
@@ -73,7 +73,6 @@ export const Listado = ({listadoState, setListadoState}) => {
                         </article>
                         );
                 })
-            : <h2>No hay peliculas para mostrar</h2>    
     }
             {/* Quiero que haya un grafment vacio y quiero que sea dinamico */}
         {/* map va a recorrer  cada index y conforme al lemngt de los objetos que
